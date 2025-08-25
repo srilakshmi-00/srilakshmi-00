@@ -34,9 +34,9 @@
 <a href="https://github.com/srilakshmi-00/" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-333?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>
 </a>
-<a href="https://surya200901.github.io/Portfolio/" target="_blank">
+<!-- <a href="https://surya200901.github.io/Portfolio/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-6f42c1?logo=google-chrome&logoColor=white&style=for-the-badge" alt="Portfolio"/>
-</a>
+</a> -->
 </p>
  
   <h2>🛠️ Languages & Tools</h2>
