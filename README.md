@@ -7,7 +7,7 @@
 <body style="font-family: Arial, sans-serif; background-color: #f9f9f9; color:#222;">
  
   <h1 align="center">🌟 Hey there, I'm <span style="color:#0a66c2;">Sri Lakshmi Tirupatamma</span></h1>
-<h3 align="center">🚀 Java Full Stack & C++ Enthusiast | Problem Solver | Tech Explorer</h3>
+<h3 align="center">🚀 Python Full Stack & C++ Enthusiast | Problem Solver | Tech Explorer</h3>
  
   <div align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
@@ -23,9 +23,9 @@
  
   <h2>💡 About Me</h2>
 <ul>
-<li>🔥 Passionate about <b>Java Spring Boot & C++</b> projects</li>
+<li>🔥 Passionate about <b>Python & C++</b> projects</li>
 <li>🛠️ Currently building <b>Smart & Real-world Applications</b></li>
-<li>🤝 Open to collaborating on <b>Full Stack Java Projects</b></li>
+<li>🤝 Open to collaborating on <b>Python Projects</b></li>
 <li>📚 Exploring <b>Machine Learning & Cloud Tech</b></li>
 <li>💬 Ask me about <b>Python, C++, MySQL, HTML, CSS, JavaScript</b></li>
 <li>📧 Reach me at: <b>enturisrilakshmitirupatamma@gmail.com</b></li>
