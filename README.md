@@ -41,7 +41,7 @@
  
   <h2>🛠️ Languages & Tools</h2>
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,mysql,git,html,css,js,cpp,vscode,idea" height="50" alt="skills"/>
+<img src="https://skillicons.dev/icons?i=python,java,mysql,git,html,css,js,cpp,vscode" height="50" alt="skills"/>
 </p>
  
   <h2>📊 GitHub Analytics</h2>
