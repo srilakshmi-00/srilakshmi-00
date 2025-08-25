@@ -27,16 +27,16 @@
 <li>🛠️ Currently building <b>Smart & Real-world Applications</b></li>
 <li>🤝 Open to collaborating on <b>Full Stack Java Projects</b></li>
 <li>📚 Exploring <b>Machine Learning & Cloud Tech</b></li>
-<li>💬 Ask me about <b>Java, Spring Boot, C++, MySQL, HTML, CSS, JavaScript</b></li>
-<li>📧 Reach me at: <b>settipallisurya1111@gmail.com</b></li>
+<li>💬 Ask me about <b>Python, C++, MySQL, HTML, CSS, JavaScript</b></li>
+<li>📧 Reach me at: <b>enturisrilakshmitirupatamma@gmail.com</b></li>
 </ul>
  
   <h2>🌐 Connect with Me</h2>
 <p>
-<a href="https://linkedin.com/in/surya-settipalli" target="_blank">
+<a href="https://www.linkedin.com/in/sri-lakshmi-71489628b/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/surya200901" target="_blank">
+<a href="https://github.com/srilakshmi-00/" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-333?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>
 </a>
 <a href="https://surya200901.github.io/Portfolio/" target="_blank">
@@ -46,13 +46,13 @@
  
   <h2>🛠️ Languages & Tools</h2>
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,html,css,js,cpp,postgres,vscode,idea" height="50" alt="skills"/>
+<img src="https://skillicons.dev/icons?i=python,java,mysql,git,html,css,js,cpp,vscode,idea" height="50" alt="skills"/>
 </p>
  
   <h2>📊 GitHub Analytics</h2>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=surya200901&show_icons=true&theme=radical" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya200901&layout=compact&theme=radical" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=srilakshmi-00&show_icons=true&theme=radical" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srilakshmi-00&layout=compact&theme=radical" height="160"/>
 </div>
  
 </body>
