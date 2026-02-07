@@ -10,7 +10,7 @@
 <h3 align="center"> Entry-Level C++ Developer| Problem Solver | Tech Explorer</h3>
  
   <div align="center">
-<img src="https://sdmntprpolandcentral.oaiusercontent.com/files/00000000-d808-620a-a5e1-a73e9351a1a0/raw?se=2025-08-25T07%3A40%3A22Z&sp=r&sv=2024-08-04&sr=b&scid=58effb62-d221-58f3-a8f1-8eec2a55d24e&skoid=5c72dd08-68ae-4091-b4e1-40ccec0693ae&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-24T13%3A03%3A39Z&ske=2025-08-25T13%3A03%3A39Z&sks=b&skv=2024-08-04&sig=55DsYo1tEv0mcp4dPfoHCV2SsfG%2BfxzUox3sagOJkbM%3D" 
+<img src="https://in.pinterest.com/pin/programmer-woman-vector-programmer-workspace--833658580996538619" 
 />
 </div>
  
